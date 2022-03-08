@@ -6,6 +6,6 @@ Aiffel Datathon using COVID-19 dataset of South Korea in Kaggle
 
 ### Participant
 -Seungmin Han   
--Jihoon Oh   
 -Dongwook Shin   
 -YongSeok Shin   
+-Jihoon Oh   
