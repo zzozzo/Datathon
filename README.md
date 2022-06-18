@@ -1,11 +1,25 @@
-# Datathon
-Aiffel Datathon using COVID-19 dataset of South Korea in Kaggle   
+# 코로나 바이러스의 확진을 막기위해서 어떻게 해야했을까?
 
 ### Project duration
-2022.03.08~
+2022.03.08 ~ 2022.03.11
 
 ### Participant
 -Seungmin Han   
 -Dongwook Sihn   
 -YongSeok Sihn   
--Jihoon Oh   
+-Jihoon Oh     
+## 주제 선정
+- 코로나 바이러스 발생 이후 다양한 조치로 바이러스 확산을 막고자 하였음.
+- 주어진 데이터를 통해 과거 어떤 행동을 취하는 것이 확산을 막을 수 있었는지 다음 두 가지 가설을 기반으로 분석하고자 함.
+> 1. 사람간의 접촉 정도가 바이러스 확산에 기여했는가?
+> 2. 주된 유동인구가 감염 확산에 기여하였는가?
+
+## EDA
+### 1. 연령별 누적 확진자 수
+![image](https://user-images.githubusercontent.com/33904461/174436782-9206ddc1-f136-47b1-aa8a-b3c165897711.png)   
+
+- 20대 누적 확진자 수가 급증하며 계속 유지되는 형태를 보임
+- 30~50대는 거의 비슷한 비율로 증가 및 유지 되는 형태 확인   
+∴활동성이 많은 연령대에서 확진자가 지속적으로 많은 수가 발생
+
+### 2. 확진자 한 명당 전염 정도
