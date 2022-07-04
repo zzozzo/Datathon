@@ -22,4 +22,22 @@
 - 30~50대는 거의 비슷한 비율로 증가 및 유지 되는 형태 확인   
 ∴활동성이 많은 연령대에서 확진자가 지속적으로 많은 수가 발생
 
-### 2. 확진자 한 명당 전염 정도
+### 2. 전염 정도별 그룹 분류
+#### 그룹 A : 51~6명 감염시킨 확진자들의 연령 및 성별 분포   
+![image](https://user-images.githubusercontent.com/33904461/177179222-56aa7a75-8b0e-4547-8587-898b7b917b1b.png)   
+
+#### 그룹 B : 2~5명 감염시킨 확진자들의 연령 및 성별 분포   
+![image](https://user-images.githubusercontent.com/33904461/177179412-8b65a872-01e1-437c-a167-fd80088adca0.png)   
+
+#### 그룹 C : 1명만 감염시킨 확진자들의 연령 및 성별 분포    
+![image](https://user-images.githubusercontent.com/33904461/177179497-edbc37d6-3b4c-4d4c-b64b-f02f541987f1.png)   
+
+### 3. 상대를 많이 감염시킨 사람이 살고 있는 지역   
+- 제주도가 가장 적은 수로 집계 됨   
+![image](https://user-images.githubusercontent.com/33904461/177179787-0f5f4fd6-373e-4aba-9ae0-4d4ff336f80c.png)
+
+### 4. 감염 경로 분석   
+- 확진자와의 직접접촉이 가장 많음   
+- 특정 장소에서의 집담 감염이 그 뒤를 이루는 것을 볼 수 있음   
+![image](https://user-images.githubusercontent.com/33904461/177180159-a47fc38f-4383-4797-9ce9-2303a308f01a.png)
+
